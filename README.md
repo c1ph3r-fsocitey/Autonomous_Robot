@@ -42,10 +42,10 @@ using the following commands, run the robot for localisation and mapping
 ros2 launch my_bot launch_sim.launch.py world:=dev_ws/src/my_bot/worlds/obstacles.world 
 ```
 ```
-ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true
-```
-```
 ros2 launch slam_toolbox online_async_launch.py params_file:=dev_ws/src/my_bot/config/mapper_params_online_async.yaml use_sim_time:=true
+```
+```
+ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true
 ```
 ```
 ros2 run teleop_twist_keyboard teleop_twist_keyboard 
