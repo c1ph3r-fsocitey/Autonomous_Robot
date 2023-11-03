@@ -14,9 +14,6 @@ https://github.com/c1ph3r-fsocitey/Autonomous_Robot/assets/109020327/a4ebe990-71
 
 [SLAM_Working.webm](https://github.com/c1ph3r-fsocitey/Autonomous_Robot/assets/109020327/e88dada2-21bb-4579-ba1d-a2764fd48572)
 
-# Gazebo Rviz Simulation
-
-Uploading Gazebo_RViz_Simulation.mp4…
 
 ## Usage
 
